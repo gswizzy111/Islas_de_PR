@@ -1,0 +1,291 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-21T16:08:37.971450+00:00",
+  "title": "Design System: Islas de PR",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "tonalRamp": [
+          "oklch(.15 .013 88)",
+          "oklch(.26 .013 88)",
+          "oklch(.38 .013 88)",
+          "oklch(.49 .013 88)",
+          "oklch(.61 .013 88)",
+          "oklch(.72 .013 88)",
+          "oklch(.84 .013 88)",
+          "oklch(.95 .013 88)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "White",
+        "tonalRamp": [
+          "oklch(.15 .004 88)",
+          "oklch(.26 .004 88)",
+          "oklch(.38 .004 88)",
+          "oklch(.49 .004 88)",
+          "oklch(.61 .004 88)",
+          "oklch(.72 .004 88)",
+          "oklch(.84 .004 88)",
+          "oklch(.95 .004 88)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(.15 .035 215)",
+          "oklch(.26 .035 215)",
+          "oklch(.38 .035 215)",
+          "oklch(.49 .035 215)",
+          "oklch(.61 .035 215)",
+          "oklch(.72 .035 215)",
+          "oklch(.84 .035 215)",
+          "oklch(.95 .035 215)"
+        ]
+      },
+      "blue": {
+        "role": "primary",
+        "displayName": "Blue",
+        "tonalRamp": [
+          "oklch(.15 .075 215)",
+          "oklch(.26 .075 215)",
+          "oklch(.38 .075 215)",
+          "oklch(.49 .075 215)",
+          "oklch(.61 .075 215)",
+          "oklch(.72 .075 215)",
+          "oklch(.84 .075 215)",
+          "oklch(.95 .075 215)"
+        ]
+      },
+      "ocean": {
+        "role": "primary",
+        "displayName": "Ocean",
+        "tonalRamp": [
+          "oklch(.15 .085 210)",
+          "oklch(.26 .085 210)",
+          "oklch(.38 .085 210)",
+          "oklch(.49 .085 210)",
+          "oklch(.61 .085 210)",
+          "oklch(.72 .085 210)",
+          "oklch(.84 .085 210)",
+          "oklch(.95 .085 210)"
+        ]
+      },
+      "aqua": {
+        "role": "secondary",
+        "displayName": "Aqua",
+        "tonalRamp": [
+          "oklch(.15 .04 186)",
+          "oklch(.26 .04 186)",
+          "oklch(.38 .04 186)",
+          "oklch(.49 .04 186)",
+          "oklch(.61 .04 186)",
+          "oklch(.72 .04 186)",
+          "oklch(.84 .04 186)",
+          "oklch(.95 .04 186)"
+        ]
+      },
+      "sand": {
+        "role": "secondary",
+        "displayName": "Sand",
+        "tonalRamp": [
+          "oklch(.15 .03 85)",
+          "oklch(.26 .03 85)",
+          "oklch(.38 .03 85)",
+          "oklch(.49 .03 85)",
+          "oklch(.61 .03 85)",
+          "oklch(.72 .03 85)",
+          "oklch(.84 .03 85)",
+          "oklch(.95 .03 85)"
+        ]
+      },
+      "sun": {
+        "role": "tertiary",
+        "displayName": "Sun",
+        "tonalRamp": [
+          "oklch(.15 .125 80)",
+          "oklch(.26 .125 80)",
+          "oklch(.38 .125 80)",
+          "oklch(.49 .125 80)",
+          "oklch(.61 .125 80)",
+          "oklch(.72 .125 80)",
+          "oklch(.84 .125 80)",
+          "oklch(.95 .125 80)"
+        ]
+      },
+      "coral": {
+        "role": "tertiary",
+        "displayName": "Coral",
+        "tonalRamp": [
+          "oklch(.15 .14 40)",
+          "oklch(.26 .14 40)",
+          "oklch(.38 .14 40)",
+          "oklch(.49 .14 40)",
+          "oklch(.61 .14 40)",
+          "oklch(.72 .14 40)",
+          "oklch(.84 .14 40)",
+          "oklch(.95 .14 40)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(.15 .025 215)",
+          "oklch(.26 .025 215)",
+          "oklch(.38 .025 215)",
+          "oklch(.49 .025 215)",
+          "oklch(.61 .025 215)",
+          "oklch(.72 .025 215)",
+          "oklch(.84 .025 215)",
+          "oklch(.95 .025 215)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "tonalRamp": [
+          "oklch(.15 .02 88)",
+          "oklch(.26 .02 88)",
+          "oklch(.38 .02 88)",
+          "oklch(.49 .02 88)",
+          "oklch(.61 .02 88)",
+          "oklch(.72 .02 88)",
+          "oklch(.84 .02 88)",
+          "oklch(.95 .02 88)"
+        ]
+      },
+      "shade": {
+        "role": "neutral",
+        "displayName": "Shade",
+        "tonalRamp": [
+          "oklch(.15 .025 215)",
+          "oklch(.26 .025 215)",
+          "oklch(.38 .025 215)",
+          "oklch(.49 .025 215)",
+          "oklch(.61 .025 215)",
+          "oklch(.72 .025 215)",
+          "oklch(.84 .025 215)",
+          "oklch(.95 .025 215)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Island headline",
+        "purpose": "Hero headlines."
+      },
+      "headline": {
+        "displayName": "Editorial section headline",
+        "purpose": "Section headings."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(.16,1,.3,1)",
+        "purpose": "Route, image, and button motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "small-phone",
+        "value": "420px"
+      },
+      {
+        "name": "mobile",
+        "value": "760px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1100px"
+      },
+      {
+        "name": "wide",
+        "value": "1600px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Navigation and excursion call to action.",
+      "html": "<button class=\"ds-button-primary\">Explore excursions <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></button>",
+      "css": ".ds-button-primary{display:inline-flex;align-items:center;justify-content:space-between;gap:25px;padding:16px 23px;border:1px solid var(--blue);border-radius:3px;font:600 13px/1.65 var(--sans, sans-serif);min-height:52px;cursor:pointer;transition:background .2s,transform .3s var(--ease);background:var(--blue);color:var(--paper);}.ds-button-primary:hover{background:var(--ink);transform:translateY(-2px)}.ds-button-primary:focus-visible{outline:3px solid var(--coral,oklch(.69 .14 40));outline-offset:5px}@media(prefers-reduced-motion:reduce){.ds-button-primary{transition:none}.ds-button-primary:hover{transform:none}}svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.5;flex-shrink:0}"
+    },
+    {
+      "name": "Light button",
+      "kind": "button",
+      "refersTo": "button-light",
+      "description": "Navigation and excursion call to action.",
+      "html": "<button class=\"ds-button-light\">Explore excursions <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></button>",
+      "css": ".ds-button-light{display:inline-flex;align-items:center;justify-content:space-between;gap:25px;padding:16px 23px;border:1px solid var(--blue);border-radius:3px;font:600 13px/1.65 var(--sans, sans-serif);min-height:52px;cursor:pointer;transition:background .2s,transform .3s var(--ease);background:var(--paper);color:var(--ink);border-color:var(--paper);}.ds-button-light:hover{transform:translateY(-2px)}.ds-button-light:focus-visible{outline:3px solid var(--coral,oklch(.69 .14 40));outline-offset:5px}@media(prefers-reduced-motion:reduce){.ds-button-light{transition:none}.ds-button-light:hover{transform:none}}svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.5;flex-shrink:0}"
+    },
+    {
+      "name": "Outline button",
+      "kind": "button",
+      "refersTo": "button-outline",
+      "description": "Navigation and excursion call to action.",
+      "html": "<button class=\"ds-button-outline\">Explore excursions <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></button>",
+      "css": ".ds-button-outline{display:inline-flex;align-items:center;justify-content:space-between;gap:25px;padding:16px 23px;border:1px solid var(--blue);border-radius:3px;font:600 13px/1.65 var(--sans, sans-serif);min-height:52px;cursor:pointer;transition:background .2s,transform .3s var(--ease);background:none;color:var(--ink);border-color:var(--line);}.ds-button-outline:hover{transform:translateY(-2px)}.ds-button-outline:focus-visible{outline:3px solid var(--coral,oklch(.69 .14 40));outline-offset:5px}@media(prefers-reduced-motion:reduce){.ds-button-outline{transition:none}.ds-button-outline:hover{transform:none}}svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.5;flex-shrink:0}"
+    },
+    {
+      "name": "Search field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Excursion search with a persistent label.",
+      "html": "<label class=\"ds-field\">Search excursions<input placeholder=\"Beach, sailing, snorkeling\"></label>",
+      "css": ".ds-field{display:block;font:600 11px/1.65 var(--sans,sans-serif);color:var(--ink)}.ds-field input{display:block;margin-top:6px;width:100%;height:46px;border:1px solid var(--line);border-radius:3px;background:var(--white);color:var(--ink);padding:0 13px;font:13px var(--sans,sans-serif);caret-color:var(--blue)}.ds-field input:focus-visible{outline:3px solid var(--coral,oklch(.69 .14 40));outline-offset:5px}"
+    },
+    {
+      "name": "Navigation",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Current page indicated with a blue underline.",
+      "html": "<nav class=\"ds-nav\"><a href=\"#discover\" aria-current=\"page\">Discover</a><a href=\"#excursions\">Excursions</a></nav>",
+      "css": ".ds-nav{display:flex;gap:25px;font:12px/1.65 var(--sans,sans-serif);color:var(--ink)}.ds-nav a{position:relative;padding:15px 0;color:inherit;text-decoration:none}.ds-nav a:after{content:\"\";position:absolute;bottom:6px;left:0;right:0;height:2px;transform:scaleX(0);background:var(--blue);transition:transform .2s}.ds-nav a:hover:after,.ds-nav a[aria-current=page]:after{transform:scaleX(1)}.ds-nav a:focus-visible{outline:3px solid var(--coral,oklch(.69 .14 40));outline-offset:5px}"
+    },
+    {
+      "name": "Collection link",
+      "kind": "chip",
+      "refersTo": "collection-link",
+      "description": "Browse a curated excursion collection.",
+      "html": "<a class=\"ds-collection\" href=\"#excursions\">Culebra adventures</a>",
+      "css": ".ds-collection{display:inline-block;padding:10px 17px;border:1px solid var(--line);border-radius:3px;font:12px/1.65 var(--sans,sans-serif);min-height:44px;color:var(--ink);text-decoration:none}.ds-collection:hover{background:var(--sand)}.ds-collection:focus-visible{outline:3px solid var(--coral,oklch(.69 .14 40));outline-offset:5px}"
+    },
+    {
+      "name": "Social preview card",
+      "kind": "card",
+      "refersTo": "post-card",
+      "description": "Editorial preview for an official Instagram embed.",
+      "html": "<article class=\"ds-post\"><div class=\"ds-preview\"><small>ISLAND JOURNAL</small><h3>A little island inspiration.</h3><button>Load Instagram post <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></button></div><footer>@islas_de_pr</footer></article>",
+      "css": ".ds-post{background:var(--white);border:1px solid var(--line);overflow:hidden;color:var(--ink);font-family:var(--sans,sans-serif)}.ds-preview{aspect-ratio:4/4.6;padding:30px;background:var(--aqua);display:flex;flex-direction:column;justify-content:space-between}.ds-preview small{font-size:10px;letter-spacing:.05em}.ds-preview h3{font:400 40px/1.25 var(--serif,Georgia,serif);max-width:260px;margin:0}.ds-preview button{background:none;border:1px solid var(--ink);padding:10px 15px;border-radius:3px;width:max-content;font:12px var(--sans,sans-serif);min-height:44px;cursor:pointer;color:inherit}.ds-preview button:focus-visible{outline:3px solid var(--coral,oklch(.69 .14 40));outline-offset:5px}.ds-post footer{padding:18px 20px;font-size:12px}svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.5;flex-shrink:0}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Island Travel Journal",
+    "overview": "A colorful travel journal brings Puerto Rico into view through large island photographs, ocean accents, warm paper, and expressive serif headlines. The approved direction is implemented in code: imagery leads discovery, while compact sans-serif labels keep navigation and excursion comparisons clear.",
+    "keyCharacteristics": [
+      "Large island photographs with generous editorial spacing.",
+      "Ocean blue actions on warm paper, with aqua, sand, and sunshine accents.",
+      "Serif headlines paired with compact, readable sans-serif controls."
+    ],
+    "rules": [],
+    "dos": [
+      "Do use the existing ocean palette and warm paper surfaces.",
+      "Do preserve image credits and legible captions over photography.",
+      "Do retain visible focus, touch-sized controls, and reduced-motion behavior."
+    ],
+    "donts": [
+      "Don't replace destination imagery with generic interface decoration.",
+      "Don't add shadows to the flat editorial surfaces.",
+      "Don't hide active navigation or saved states behind color alone."
+    ]
+  }
+}
